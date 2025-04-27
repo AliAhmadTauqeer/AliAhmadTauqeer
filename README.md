@@ -41,4 +41,57 @@
     <td align="center" width="200">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="70">
     </td>
-    <td align="center
+    <td align="center" width="200">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="70">
+    </td>
+    <td align="center" width="200">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70">
+    </td>
+    <td align="center" width="200">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="70">
+    </td>
+    <td align="center" width="200">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="70">
+    </td>
+</tr>
+
+<tr>
+    <td align="center" width="200">
+        <img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" width="70">
+    </td>
+    <td align="center" width="200">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="70">
+    </td>
+    <td align="center" width="200">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="70">
+    </td>
+    <td align="center" width="200">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70">
+    </td>
+    <td align="center" width="200">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70">
+    </td>
+</tr>
+
+<tr>
+    <td align="center" width="200">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="70">
+    </td>
+    <td align="center" width="200">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="70">
+    </td>
+</tr>
+</table>
+
+---
+
+| Stats | Streak | Top Languages |
+|:---:|:---:|:---:|
+|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AliAhmadTauqeer&theme=gruvbox)|[![GitHub Streak](https://streak-stats.demolab.com/?user=AliAhmadTauqeer&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888)](https://git.io/streak-stats)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AliAhmadTauqeer&theme=gruvbox)
+
+---
+
+### 🌍 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-ahmad-tauqeer/) [![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AliAhmadTauqeer)
+
+</body>
