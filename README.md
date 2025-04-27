@@ -19,68 +19,75 @@
 <h2>Tech Stack</h2>
 
 <table width="80%">
+ 
 <tr>
-    <td align="center" width="200">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70">
+    <td align='center' width="200">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="70">
     </td>
-    <td align="center" width="200">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70">
+    <td align='center' width="200">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="80">
     </td>
-    <td align="center" width="200">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70">
+ <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="170">
     </td>
-    <td align="center" width="200">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70">
+     <td align='center' width="200">
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="90">
     </td>
-    <td align="center" width="200">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="70">
+    <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
     </td>
 </tr>
-
+ 
 <tr>
-    <td align="center" width="200">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="70">
+    <td align='center' width="200">
+         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
     </td>
-    <td align="center" width="200">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="70">
+	  <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"  width="90">
     </td>
-    <td align="center" width="200">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70">
+ <td align='center' width="200">
+        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg">
     </td>
-    <td align="center" width="200">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="70">
+  <td align='center' width="200">
+        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
     </td>
-    <td align="center" width="200">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="70">
+    <td align='center' width="200">
+         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="100">
     </td>
 </tr>
-
+	
 <tr>
-    <td align="center" width="200">
-        <img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" width="70">
+    <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"  width="90">
     </td>
-    <td align="center" width="200">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="70">
+    <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" width="80">
     </td>
-    <td align="center" width="200">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="70">
+ <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="150">
     </td>
-    <td align="center" width="200">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70">
+     <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="90">
     </td>
-    <td align="center" width="200">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70">
+    <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="90">
     </td>
 </tr>
-
 <tr>
-    <td align="center" width="200">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="70">
+    <td align='center' width="200">
+       <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"  width="90">
     </td>
-    <td align="center" width="200">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="70">
+    <td align='center' width="200">
+       <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg"  width="90">
+    </td>
+    <td align='center' width="200">
+       <img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg"  width="90">
+    </td>
+    <td align='center' width="200">
+       <img src="https://cdn.worldvectorlogo.com/logos/shopify.svg"  width="90">
     </td>
 </tr>
+    
 </table>
 
 ---
